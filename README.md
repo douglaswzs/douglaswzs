@@ -9,6 +9,8 @@ Hey there 👋
 I’m Douglas, a senior full-stack engineer with over 15 years experience of building .NET application and web based systems, ranging from simple sites to large N-Tier, high transactional, data capture sites for major registry and clinical trials. 
 
 Want to know more about me? [Check out my Linkedin profile.](https://www.linkedin.com/in/douglaswzs/)
+
+
 A list of my public github repository? [Check out my public github repo.](https://douglaswzs.github.io/repo/)
 
 ## &#x1f4c8; GitHub Stats
