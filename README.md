@@ -11,7 +11,7 @@ I’m Douglas, a senior full-stack engineer with over 15 years experience of bui
 Want to know more about me? [Check out my Linkedin profile.](https://www.linkedin.com/in/douglaswzs/)
 
 
-A list of my public github repository? [Check out my public github repo.](https://douglaswzs.github.io/repo/)
+A list of my public github repository. [Check out my public github repo.](https://douglaswzs.github.io/repo/)
 
 ## &#x1f4c8; GitHub Stats
 
